@@ -1,0 +1,6 @@
+print("daanos boot-----------------")
+textutils.slowPrint("daanos-------------")
+sleep("3")
+print("---------")
+print("daantech")
+print("---------")

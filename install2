@@ -1,0 +1,9 @@
+print("daanosinstaller---------------")
+textutils.slowPrint("deleting old files",10)
+
+
+fs.delete("install")
+fs.delete("reboot")
+fs.delete("shutdown")
+textutils.slowPrint("installing...",10)
+shell.run("deleteinstall")

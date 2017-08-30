@@ -1,0 +1,7 @@
+print("daan installer")
+print("----------------------")
+print("voer een disk in en start de installer opnieuw")
+fs.copy("install", "disk/install")
+fs.copy("install", "disk/startup")
+print("geinstaleerd!")
+os.reboot()

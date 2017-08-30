@@ -1,0 +1,2 @@
+fs.delete("install2")
+fs.delete("deleteinstall")
